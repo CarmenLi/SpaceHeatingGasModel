@@ -1,0 +1,24 @@
+Heating threshold temperature in deg C for heating by gas as reported in table 3 of  https://doi.org/10.1016/j.enbuild.2019.07.013,,
+country,country_code,threshold
+Austria,AT,14.59
+Belgium,BE,15.2
+Bulgaria,BG,16.02
+Czech Republic,CZ,14.8
+Germany,DE,13.98
+Denmark,DK,15.2
+Estonia,EE,11.12
+Spain,ES,18.47
+France,FR,15.61
+Great Britain,GB,14.18
+Greece,GR,16.84
+Croatia,HR,18.67
+Hungary,HU,16.84
+Ireland,IE,12.76
+Italy,IT,15.61
+Lithuania,LT,15.2
+Latvia,LV,12.96
+Netherlands,NL,13.98
+Poland,PL,15.2
+Romania,RO,15.41
+Slovenia,SI,15.41
+Slovakia,SK,14.18

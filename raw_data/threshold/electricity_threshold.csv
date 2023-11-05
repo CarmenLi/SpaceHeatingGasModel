@@ -1,0 +1,10 @@
+Heating threshold temperature in deg C for heating by electricity as reported in table 3 of  https://doi.org/10.1016/j.enbuild.2019.07.013,,
+country,country_code,threshold
+Bulgaria,BG,12.76
+Switzerland,CH,16.84
+Spain,ES,9.69
+Finland,FI,13.16
+France,FR,13.98
+Norway,NO,11.53
+Portugal,PT,11.94
+Sweden,SE,13.16

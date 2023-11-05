@@ -1,0 +1,29 @@
+Activating function (winter/summer month) \Theta based on table 4 in https://doi.org/10.1016/j.enbuild.2019.07.013. ,,,
+country,country_code,summer_start,summer_end
+Austria,AT,6,8
+Belgium,BE,5,9
+Bulgaria,BG,5,9
+Czech Republic,CZ,6,8
+Germany,DE,6,9
+Denmark,DK,5,9
+Estonia,EE,5,9
+Spain,ES,4,10
+France,FR,6,8
+Great Britain,GB,5,9
+Greece,GR,4,9
+Croatia,HR,5,9
+Hungary,HU,5,9
+Ireland,IE,4,10
+Italy,IT,5,9
+Lithuania,LT,5,9
+Latvia,LV,5,9
+Netherlands,NL,5,9
+Poland,PL,6,8
+Romania,RO,4,9
+Slovenia,SI,5,9
+Slovakia,SK,5,9
+Switzerland,CH,4,8
+Finland,FI,6,8
+Norway,NO,6,8
+Portugal,PT,4,10
+Sweden,SE,6,8
