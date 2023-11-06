@@ -1,6 +1,8 @@
-Gas demand model for the article "Europe's energy security: From Russian dependence to renewable reliance" on Energy Policy. 
+Gas demand model for the article "Europe's energy security: From Russian dependence to renewable reliance" in Energy Policy. 
 
-Documentation can but found in the directory 'note'.
+Documentation can be found in the directory 'note'.
 
-Please download the raw temperature data and generate the intermediate output with the notebooks in 'preprocessing' before running the models.
+Final annual gas demand estimates from the different models under the different weather scenarios are given in 'output'. 
+
+Please download the raw temperature data and generate the intermediate outputs with the notebooks in 'preprocessing' before running the models.
 
